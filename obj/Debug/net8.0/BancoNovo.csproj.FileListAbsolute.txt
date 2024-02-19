@@ -1,0 +1,14 @@
+D:\Development\BancoNovo\bin\Debug\net8.0\BancoNovo.exe
+D:\Development\BancoNovo\bin\Debug\net8.0\BancoNovo.deps.json
+D:\Development\BancoNovo\bin\Debug\net8.0\BancoNovo.runtimeconfig.json
+D:\Development\BancoNovo\bin\Debug\net8.0\BancoNovo.dll
+D:\Development\BancoNovo\bin\Debug\net8.0\BancoNovo.pdb
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.AssemblyInfoInputs.cache
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.AssemblyInfo.cs
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.csproj.CoreCompileInputs.cache
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.dll
+D:\Development\BancoNovo\obj\Debug\net8.0\refint\BancoNovo.dll
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.pdb
+D:\Development\BancoNovo\obj\Debug\net8.0\BancoNovo.genruntimeconfig.cache
+D:\Development\BancoNovo\obj\Debug\net8.0\ref\BancoNovo.dll
